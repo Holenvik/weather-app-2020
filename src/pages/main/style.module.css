@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 50px;
+}
+
+.weatherFormWrapper {
+  margin-top: 40px;
+  display: flex;
+}
+
+.weatherFormWrapper button {
+  border: none;
+  border-radius: 5px;
+  background-color: #03a9f4;
+  color: #fff;
+  width: 80px;
+  height: 30px;
+}
